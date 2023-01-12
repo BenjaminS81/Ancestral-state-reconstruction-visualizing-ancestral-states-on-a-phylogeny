@@ -1,5 +1,5 @@
 
-## Ancestral character state estimate simulation study on for continuous and discrete characters ##
+## Ancestral character state estimate simulation study for continuous and discrete characters ##
 
 In this highly guided R studio script the principles of infering ancestral character states employing different
 mathematical models are simulated and discussed. The script mainly employs functions from the R packages Phytools and ape.
